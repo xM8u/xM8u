@@ -1,2 +1,3 @@
 # xM8u
-scripter
+loadingscreen 
+Translated from Portuguese into Romanian
